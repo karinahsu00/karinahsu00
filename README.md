@@ -26,7 +26,7 @@ ETtoday (Taiwan) | July 2022 – July 2023
 ## 🛠 Skills
 
 - **Languages:** English (Fluent), Mandarin Chinese (Native)  
-- **Tools & Tech:** Python, SQL, Google Analytics, Google Ads, Project Management, Adobe Photoshop, SparkAR  
+- **Tools & Tech:** Python, SQL, Tableau, Google Analytics, Google Ads, Project Management, Capcut, SparkAR  
 
 ## 🔍 Research Interests
 
